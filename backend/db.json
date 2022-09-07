@@ -1,0 +1,58 @@
+{
+    "products": [
+        {
+            "id": 123,
+            "name":"orange",
+            "price": "2",
+            "image": "https://cdn.pixabay.com/photo/2017/01/20/15/06/oranges-1995056_1280.jpg"
+        },
+        {
+            "id": 124,
+            "name":"mango",
+            "price": "3",
+            "image": "https://cdn.pixabay.com/photo/2016/04/10/15/13/mangoes-1320111_1280.jpg"
+        },
+        {
+            "id": 125,
+            "name":"grape",
+            "price": "5",
+            "image": "https://images.pexels.com/photos/708777/pexels-photo-708777.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+        },
+        {
+            "id": 126,
+            "name":"blueberry",
+            "price": "10",
+            "image": "https://images.pexels.com/photos/70862/pexels-photo-70862.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+        },
+        {
+            "id": 127,
+            "name":"banana",
+            "price": "2",
+            "image": "https://images.pexels.com/photos/10112720/pexels-photo-10112720.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+        },
+        {
+            "id": 128,
+            "name":"Monstera Deliciosa Fruit",
+            "price": "50",
+            "image": "https://img.atlasobscura.com/8E58X9MdtLGy3irTkfKMnNkZKNJiN2AJ4iiMs_lYvU0/rs:fill:780:520:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3RoaW5n/X2ltYWdlcy82ZDFj/MTgyNjJlZjcxMDMw/ZjFfTW9uc3RlcmFE/ZWxpY2lvc2FfQWxh/bXkuanBn.jpg"
+        },
+        {
+            "id": 129,
+            "name":"strawberry",
+            "price": "20",
+            "image": "https://cdn.pixabay.com/photo/2016/05/16/17/59/strawberries-1396330_1280.jpg"
+        },
+        {
+            "id": 130,
+            "name":"rambutan",
+            "price": "4",
+            "image": "https://images.pexels.com/photos/7906303/pexels-photo-7906303.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+        },
+        {
+            "id": 131,
+            "name":"watermelon",
+            "price": "8",
+            "image": "https://cdn.pixabay.com/photo/2017/07/02/16/15/melon-2464875_1280.jpg"
+        }
+    ]
+}
